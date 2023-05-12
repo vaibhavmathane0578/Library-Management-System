@@ -1,4 +1,4 @@
-# Project Title College Library Management
+# Project Title: College Library Management
 In this project, I am going to create a Web application to manage Library Information
 Approach: Implement the below feature in your application. 
 1. Student Registration. 
