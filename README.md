@@ -1,5 +1,5 @@
 # Project Title: College Library Management
-In this project, I am going to create a Web application to manage Library Information
+In this project, I am going to create a Web application to manage Library Information using Java, JDBC 
 Approach: Implement the below feature in your application. 
 1. Student Registration. 
 2. Book Management: Add a new book, delete a book, update a book's details,
